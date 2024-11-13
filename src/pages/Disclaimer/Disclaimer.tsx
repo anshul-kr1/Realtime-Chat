@@ -10,7 +10,7 @@ export const Disclaimer = () => {
   const theme = useTheme()
 
   useEffect(() => {
-    setTitle('Disclaimer')
+    setTitle('Mera Lund ka big Details')
   }, [setTitle])
 
   return (
