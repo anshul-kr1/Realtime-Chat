@@ -76,7 +76,7 @@ export const manifest: Partial<ManifestOptions> = {
       ],
     },
     {
-      name: 'Disclaimer',
+      name: 'Mera Lund ka details',
       url: './disclaimer',
       icons: [
         {
